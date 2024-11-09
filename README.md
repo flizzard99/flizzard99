@@ -100,7 +100,7 @@ Hi, Flizzard!
 	<br/>
 </p>
 <br/>
-<--
+<!--
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
 <p align="center">
