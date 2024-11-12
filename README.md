@@ -78,7 +78,7 @@ Hi, Flizzard!
 -->
 
 
-## <a href="https://github.com/flizzard99"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+## 🥇 GitHub Stats
 
 <br/>
 <summary><b> ⚡ flizzard99's Stats</b></summary>
