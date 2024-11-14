@@ -61,6 +61,14 @@ Hi, Flizzard!
     <a href="https://github.com/flizzard99"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white"></a>
 </p>
 
+### 💪 Training tools
+
+<p>
+    <a href="https://github.com/flizzard99"><img alt="HackTheBox" src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black"></a>
+    <a href='https://github.com/flizzard99' target="_blank"><img alt='Hack4u' src='https://img.shields.io/badge/Hack4u-100000?style=for-the-badge&logo=Hack4u&logoColor=FFFFFF&labelColor=FF0000&color=FF0000'/></a>
+	<a href='https://github.com/flizzard99' target="_blank"><img alt='VulnHub' src='https://img.shields.io/badge/Vulnhub-100000?style=for-the-badge&logo=VulnHub&logoColor=FAFAFA&labelColor=000000&color=FF8D00'/></a>
+</p>
+
 ### 💻 Software and Tools
 
 <p>
