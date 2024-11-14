@@ -6,10 +6,10 @@ Hi, Flizzard!
 </h1>
 <p align="center">
 	<a href="https://github.com/flizzard99">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="flizzard" />
+		<img src="https://komarev.com/ghpvc/?username=flizzard99&label=Profile%20views&color=0e75b6&style=flat" alt="flizzard" />
 	</a>
 	<a href="https://github.com/flizzard99">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="flizzard" />
+		<img src="https://img.shields.io/github/followers/flizzard99?label=Followers" alt="flizzard" />
 	</a>
 </p>
 <br/>
@@ -34,8 +34,8 @@ Hi, Flizzard!
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:9flizzard9@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/flizzard99"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="mailto:9flizzard9@gmail.com"><img img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/flizzard99"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -43,8 +43,8 @@ Hi, Flizzard!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/flizzard99"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/flizzard99"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/flizzard99"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
+    <a href="https://github.com/flizzard99"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></a>
 
 ### ⌨️ Favorite Distributions 
 
